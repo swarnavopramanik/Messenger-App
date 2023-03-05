@@ -31,10 +31,8 @@ Now that you have an idea of how Firebase and Cloud Firestore work, let's build 
 Note: For this article's scope, I have already prewritten the CSS and prebuilt the components for the chat app. You can find the final project code on GitHub and the CSS and components in the setup folder. You can also view the final project with this live link.
 
 
-
-![Screenshot (366)](https://user-images.githubusercontent.com/105142693/222955587-ae8a3351-2c2e-4f43-9bc6-96a543cb59b0.png)
-![Screenshot (367)](https://user-images.githubusercontent.com/105142693/222955616-3b852579-1da4-4df9-978b-c452a43e44dd.png)
-
-![image](https://user-images.githubusercontent.com/105142693/222955536-2a33ee3f-793b-4f3e-89e6-255918fc5034.png)
+![Screenshot (368)](https://user-images.githubusercontent.com/105142693/222955726-62e8c9e1-ffdf-447b-9dc7-2b0885774f9b.png)
+![Screenshot (369)](https://user-images.githubusercontent.com/105142693/222955734-0b54c9c5-201e-4874-8601-0c598c6cbe69.png)
+![Screenshot (370)](https://user-images.githubusercontent.com/105142693/222955735-6cacba7a-8fff-438b-93e3-63e9aa908e54.png)
 
 
